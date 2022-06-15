@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#Copyright : SuperGroupIV
+#Made by SuperGroupIV
 import random
 import time
 import os
