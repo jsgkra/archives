@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#Made by SuperGroupIV
 from mastermind_librairie_20220610 import *
 import os
 import time
