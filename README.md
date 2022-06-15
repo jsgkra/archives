@@ -1,5 +1,5 @@
-# Mastermind  Made by SuperGroup IV
-Mastermind à jouer dans le terminal.
+# Mastermind - Made by SuperGroup_IV
+Minimastermind à jouer dans le terminal.
 
 ![intro](screenshots/intro.gif)
 ![rules](screenshots/règles.png)
