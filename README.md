@@ -1,6 +1,6 @@
 # Mastermind  Made by SuperGroup IV
 
-![title]
+![intro](screenshots/intro.png)
 
 ![rules](screenshots/règles.png)
 
